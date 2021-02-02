@@ -8,4 +8,4 @@ The following test plans are availalbe already:
 
 [Read this Wiki page](https://github.com/WMSPanel/larix-testing/wiki) for more details.
 
-You may also find useful our (Larix Broadcaster SDK tutorials](https://github.com/WMSPanel/larix-sdk-examples).
+You may also find useful our [Larix Broadcaster SDK tutorials](https://github.com/WMSPanel/larix-sdk-examples).
